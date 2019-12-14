@@ -4,8 +4,9 @@ data Operator =
     Add |
     Subtract |
     Multiply |
-    Divide deriving Show
+    Divide deriving (Show, Eq)
 
-data AST a =
-    Leaf a |
+data AST a=
+    LeafValue a |
     Node (AST a) Operator (AST a)
+    deriving Show

@@ -30,7 +30,7 @@ version = Version [0,1,0,0] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
 bindir     = "/Users/ethanleba/Documents/haskellexercises/calculator/calculator/.stack-work/install/x86_64-osx/c4135d3a1a72b98f0cb5115db8366b50bb4830ad5ade7df90c3b5e358fb09d1e/8.6.5/bin"
-libdir     = "/Users/ethanleba/Documents/haskellexercises/calculator/calculator/.stack-work/install/x86_64-osx/c4135d3a1a72b98f0cb5115db8366b50bb4830ad5ade7df90c3b5e358fb09d1e/8.6.5/lib/x86_64-osx-ghc-8.6.5/calculator-0.1.0.0-Df4OSwgVTPSAHGImoyrHHv-calculator"
+libdir     = "/Users/ethanleba/Documents/haskellexercises/calculator/calculator/.stack-work/install/x86_64-osx/c4135d3a1a72b98f0cb5115db8366b50bb4830ad5ade7df90c3b5e358fb09d1e/8.6.5/lib/x86_64-osx-ghc-8.6.5/calculator-0.1.0.0-HH1LtcKZycR7WeiOjMAzn9-calculator"
 dynlibdir  = "/Users/ethanleba/Documents/haskellexercises/calculator/calculator/.stack-work/install/x86_64-osx/c4135d3a1a72b98f0cb5115db8366b50bb4830ad5ade7df90c3b5e358fb09d1e/8.6.5/lib/x86_64-osx-ghc-8.6.5"
 datadir    = "/Users/ethanleba/Documents/haskellexercises/calculator/calculator/.stack-work/install/x86_64-osx/c4135d3a1a72b98f0cb5115db8366b50bb4830ad5ade7df90c3b5e358fb09d1e/8.6.5/share/x86_64-osx-ghc-8.6.5/calculator-0.1.0.0"
 libexecdir = "/Users/ethanleba/Documents/haskellexercises/calculator/calculator/.stack-work/install/x86_64-osx/c4135d3a1a72b98f0cb5115db8366b50bb4830ad5ade7df90c3b5e358fb09d1e/8.6.5/libexec/x86_64-osx-ghc-8.6.5/calculator-0.1.0.0"
